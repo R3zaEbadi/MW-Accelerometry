@@ -6,5 +6,5 @@ The temporal stability of millisecond pulsars is remarkable, rivaling even some 
 arXiv: [arXiv:2008.13052](https://arxiv.org/abs/2008.13052)
 
 
-Spin period analysis code may be found [here](spin_period.ipynb).
-Orbital period analysis code may be found [here](orbital_period.ipynb)
+Spin period analysis may be found [here](spin_period.ipynb).
+Orbital period analysis may be found [here](orbital_period.ipynb)
